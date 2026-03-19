@@ -25,7 +25,7 @@ const sidebarItems: SidebarItem[] = [
   { name: "15", path: "/components/steppers" },
   { name: "16", path: "/components/tabs" },
   { name: "17", path: "/components/toggles" },
-  { name: "18", path: "/components/input-fields", badge: "New" },
+  { name: "18", path: "/components/input-fields"/*새로운 메뉴 만들때 사용 badge: "New" */},
 ];
 
 export function Sidebar() {
