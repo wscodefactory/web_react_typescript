@@ -3,6 +3,7 @@
 ## 📌 프로젝트 소개 (Project Overview)
 
 본 프로젝트는 근로장학 프로그램에서 진행한 웹페이지 제작 프로젝트입니다.
+
 This project is a web application developed as part of a work-study program.
 ---
 
